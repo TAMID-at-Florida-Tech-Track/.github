@@ -4,13 +4,7 @@
   * [What is the Tech Consulting Track?](#what-is-the-tech-consulting-track)
     + [How will it work?](#how-will-it-work)
       - [Workflow](#workflow)
-      - [Fun bonding!](#fun-bonding)
   * [What is the time commitment?](#what-is-the-time-commitment)
-    + [Hours per week](#hours-per-week)
-  * [Our Client](#our-client)
-    + [Company Introduction](#company-introduction)
-    + [What we are building](#what-we-are-building)
-      - [Tools](#tools-)
   * [Engineering Roles](#engineering-roles)
   * [Questions?](#questions)
 
@@ -27,91 +21,24 @@ be directly integrated into their project management workflow.
 
 #### Workflow
 We will be working in 2-week sprints in coordination with our Project Manager.
-Students will [program in pairs](https://www.agilealliance.org/glossary/pairing/) in order to ensure quality code, share knowledge, and bond.
+Students will [program in pairs](https://www.agilealliance.org/glossary/pairing/) 
+in order to ensure quality code, share knowledge, and bond.
 
 After developing a feature, a code review will then be completed by the Tech Team Lead.
 
 ## What is the time commitment?
-The TAMID at Brandeis Tech track will meet **twice a week** starting **August
-15th, 2020**.
-
-> Education sessions will be 1.5 to 2 hours.
-
-There will be a 3-week education period where students will learn about pivotal
-technology terms, version control, an overview of the Israeli tech world.
-
-### Hours per week
-*The expected time spent working* ***outside*** *the Tech Track is 5 hours per
-week.*
-
-> We will meet twice a week synchronously, likely for an hour per meeting.
-These meetings will happen over Zoom at a time that  works best for all members
-of the track.
-Asynchronous communication will happen over Slack throughout the week.
-These meetings will be used for demos, technical discussions, bonding, and
-sprint reviews.*
-
-## Our Client
-
-### Company Introduction
-We will be working with [Vibo](vibo.io), a B2B2C DJ technology company.
-Vibo's clients are DJs, who use their event management software to plan events.
-Vibo offers three different mediums to help DJs organize their events:
-
-<details>
-  <summary><b>1. The Mobile App</b></summary>
-  The Mobile App is used by the DJ's clients. The DJ can create an event,
-  and invite their clients to request songs via Vibo's app. Their clients can
-  share the link wih friends, and they can all like/dislike songs, along with
-  making songs as a 'must play' or as a 'do not play'.
-
-  DJs can organize the songs into different sections,
-</details>
-
-<br />
-
-<details>
-  <summary><b>2. The Web App</b></summary>
-  The Web App is similar to the mobile app, but it is exclusively used by the
-  DJs. It allows for the DJs to organize their events with more options.
-</details>
-
-<br />
-
-<details>
-  <summary><b>3. The Scanner</b></summary>
-  The Scanner is a desktop application that allows DJs to scan their music
-  library to find out what songs they do and do not have that were requested by
-  the client.
-</details>
-
-
-> You can find
-[videos about Vibo](https://www.youtube.com/watch?v=aUY5lXtzSWY&t=364s)
-on Youtube.
-
-### What we are building
-We will be building ViboTrends, a data analytics tool that uses
-Vibo's event data to identify song trends. We will be building an
-API (Node, Typescript) to query
-their database (MongoDB, ElasticSearch). We will write unit tests for this API
-(Jest). We will then display this data in their web application using React.
-
-#### Tools
-* Front-End: React, Typescript
-* Back-End: Node, Express, Typescript
-* Databases: MongoDB, ElasticSearch
-* Testing: Jest
-* Other: AWS
+Unlike regular TAMID Consulting, Fund, or Education, TAMID at Florida Tech Track members 
+are expected to contribute roughly 5 hours per week. This is due to the fact that the projects 
+are highly technical and require significantly more time and resources than other TAMID projects.
 
 ## Engineering Roles
 
 There will be three engineering roles in the Tech Track.
 
 We are looking to have:
-1. 2 Technical Project Manager
-2. 3 Senior Software Engineers
-3. 2-3 Junior Software Engineers
+1. Technical Project Managers
+2. Senior Software Engineers
+3. Junior Software Engineers
 
 <details>
   <summary><b>1. Technical Project Manager</b></summary>
@@ -125,7 +52,7 @@ We are looking to have:
   <br />
   <i>Must have:</i>
   <ul>
-    <li>Taken at least COSI 12B</li>
+    <li>Taken at least COP 3503</li>
     <li>
       Done at least one internship/TAMID Fellowship/JBS and had a technical role
     </li>
@@ -137,7 +64,7 @@ We are looking to have:
 
   <i>Preferably:</i>
   <ul>
-    <li>Have taken at least COSI 21a</li>
+    <li>Have taken at least COP 3530</li>
     <li>Have taken at least one programming elective</li>
     <li>Have worked on side projects/attended hackathons</li>
   </ul>
@@ -153,13 +80,12 @@ We are looking to have:
   <br />
   <i>Must have:</i>
   <ul>
-    <li>Taken at least COSI 12B</li>
+    <li>Taken at least COP 3503</li>
     <li>Be willing to mentor Junior Software Engineers</li>
   </ul>
 
   <i>Preferably:</i>
   <ul>
-    <li>Taken COSI 21a or completed the Brandeis JBS program</li>
     <li>
       Done at least one internship/TAMID Fellowship and had a technical role
     </li>
@@ -180,15 +106,15 @@ We are looking to have:
 
   <i>Must have:</i>
   <ul>
-    <li>Taken at least COSI 10A/11A</li>
+    <li>Taken at least COP 3502</li>
   </ul>
 
   <i>Preferably:</i>
   <ul>
-    <li>Taken at least COSI 12B</li>
+    <li>Taken at least COP 3503</li>
   </ul>
 
 </details>
 
 ## Questions?
-If you have any questions about anything said, please email or text Mitchell!
+If you have any questions about anything said, please email or text Lukian!
