@@ -117,4 +117,4 @@ We are looking to have:
 </details>
 
 ## Questions?
-If you have any questions about anything said, please email or text Lukian!
+If you have any questions about anything said, please reach out to the current Director of Tech Consulting
